@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "UTFF_footprints")(type "KiCad")(uri "/Users/onokoutarou/Library/CloudStorage/SynologyDrive-utff/UTFF template&library/KiCAD/footprints/UTFF_footprints.pretty")(options "")(descr ""))
+)
